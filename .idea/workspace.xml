@@ -49,16 +49,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Practical10">
+  <component name="RunManager" selected="Application.Practical5">
     <configuration name="Practical10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practical10" />
-      <module name="PARTI" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practical2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practical2" />
       <module name="PARTI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practical5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practical5" />
+      <module name="PARTI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practical9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practical9" />
       <module name="PARTI" />
@@ -87,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practical5" />
         <item itemvalue="Application.Practical10" />
         <item itemvalue="Application.Practical9" />
         <item itemvalue="Application.Practical4" />
         <item itemvalue="Application.Practical3" />
-        <item itemvalue="Application.Practical2" />
       </list>
     </recent_temporary>
   </component>

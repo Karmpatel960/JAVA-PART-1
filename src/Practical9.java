@@ -1,3 +1,6 @@
+/*Prepared by PATEL KARM HITESHKUMAR(21CE095)*/
+/*The problem is to check whether a given Sudoku solution is correct.
+*/
 public class Practical9 {
     public static void main(String[] args) {
         int[][] a = {
