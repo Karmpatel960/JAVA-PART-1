@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f9b1047-3683-43f3-abb4-e42cebc875bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PART-2/src/Practical4/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PART-2/src/Practical4/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PART-2/src/Practical4/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART-2/src/Practical1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/PART-2/src/Practical1/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART-2/src/Practical1/testcircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/PART-2/src/Practical1/testcircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART-2/src/Practical2/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/PART-2/src/Practical2/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART-2/src/Practical2/testAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/PART-2/src/Practical2/testAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART-2/src/Practical3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/PART-2/src/Practical3/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART-2/src/Practical3/choise.java" beforeDir="false" afterPath="$PROJECT_DIR$/PART-2/src/Practical3/choise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART-2/src/Practical4/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/PART-2/src/Practical4/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +42,7 @@
       <recent name="Practical4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practical3.Account" />
-      <module name="PART-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practical3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Practical4">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practical5.Main" />
       <module name="PART-2" />
@@ -75,6 +52,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practical4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practical4" />
+      <module name="PARTI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practical4" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.testcircle" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.choise" />
-        <item itemvalue="Application.Account" />
       </list>
     </recent_temporary>
   </component>
